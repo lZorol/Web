@@ -476,8 +476,9 @@ section.dark .section-title::after{
 }
 
 footer{
-  background: url(/images/back.jpg) no-repeat center;
+  background: url(../images/back.jpg) no-repeat center;
   background-size: cover;
+  background-attachment: fixed;
   color: #fff;
   padding: 80px 0;
   text-align: center;
